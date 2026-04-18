@@ -1,0 +1,17 @@
+Bill of Materials (BOM) - HALO 0,,,,,
+Name (Designator),Purpose,Quantity,Total Cost (Est.),Link / LCSC Part #,Distributor
+RP2040 (U1),Brain of the pcb,1,$4.89,C2040,JLCPCB / LCSC
+W25Q16JVUXIQ,Memory for the PCB,1,$5.07,C2843335,JLCPCB / LCSC
+TYPE-C-31-M-12,USB C For energy and input data,1,$0.91,C165948,JLCPCB / LCSC
+KT-0603R (D1),LED RED for the PCB art,1,$0.03,C2286,JLCPCB / LCSC
+RC0603JR-071KL (R8),1k LED resistor,1,$0.03,C14676,JLCPCB / LCSC
+MCP1700T-3302E/TT,Voltage regulator,1,$2.43,C39051,JLCPCB / LCSC
+X322512MSB4SI,Crystal Oscilator of 12Mhz,1,$0.36,C9002,JLCPCB / LCSC
+TS-1088-AR02016,SMD BUTTON,2,$0.27,C720477,JLCPCB / LCSC
+"C1, C10 1uF",Energy input +1v1 ,2,$0.015,C52923,JLCPCB / LCSC
+C2 - C9 100nF (0.1uF),Balance energy of the RP2040 for the pins,3,$0.015,C14663,JLCPCB / LCSC
+C15 16 33pF,"Crystal Oscilator meters, like the ones that tell it to oscilate in that range",1,$0.015,C1525,JLCPCB / LCSC
+"R1, R2 27k",RP2040 Resistors,2,≈ $0.002,C25905,JLCPCB / LCSC
+"R3, R4 5.1k",usb C resistors,2,≈ $0.003,C25917,JLCPCB / LCSC
+"R5, R6, R7 10k ",Pull-ups (Reset / Boot / SWD),3,≈ $0.004,C25904,JLCPCB / LCSC
+C13-14 10uF,Voltage regulator capacitor,2,$0.015,C19702,JLCPCB / LCSC
