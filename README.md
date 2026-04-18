@@ -2,7 +2,7 @@
 HALO-0 is a custom development board built around the RP2040 System-on-Chip (SoC).this features a quad memory flash a crystal oscillator, a voltage regulator and a USB C. adding to the repos thematic the HALO-0 has a quote of doubting the impossible and a masterpiece, NAPOLEON TO THE MUNA!
 
 ## The reason behind this project
-This project started as a following up to the guide provided by *https://github.com/KaiPereira* the ne for making this project possible, basically my goal was to learn the fundamentals, and learn everything about how an actual pcb works, cause I made already two but really basic ones.. so with this project I was able to open more my eyes, and learn a bit more about everything (USB, MEMORY FLASH, CRYSTAL OSCILATORS, VOLTAGE REGULATORS, CAPACITORS, RESISTANCES, ETC). Although I was not finished so I added my OWN style of art, based on my personal preferences (napoleon). and I also added a quote that helped me be disciplined with HackClub Stasis!. its an easter egg hahaha.
+This project started as a following up to the guide provided by *https://github.com/KaiPereira* the teacher or the one for making this project possible, basically my goal was to learn the fundamentals of schematic and routing, and learn everything about how an actual pcb works, cause I've already made two, but really basic ones.. so with this project I was able to open more my eyes, and learn a bit more about everything (USB, MEMORY FLASH, CRYSTAL OSCILATORS, VOLTAGE REGULATORS, CAPACITORS, RESISTANCES, ETC). BUT I did not ended there so I added my OWN style of art, based on my personal preferences (napoleon). and I also added a quote that helped me be disciplined with HackClub Stasis!. its an easter egg hahaha.
 
 
 ## Schematic Overview
